@@ -16,9 +16,7 @@
   
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+[![@stormy's Holopin board](https://holopin.io/api/user/board?user=stormy)](https://holopin.io/@stormy)
  
   - - -
 
