@@ -35,10 +35,7 @@
  
  ### :fire: My Stats :
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vivek033&theme=dark&background=000000)](https://git.io/streak-stats)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivek033&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=vivek0033&show_icons=true&theme=merko)](https://git.io/streak-stats)
 
 <!---
 vivek0033/vivek0033 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
